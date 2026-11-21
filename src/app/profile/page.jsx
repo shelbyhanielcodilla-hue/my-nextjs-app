@@ -20,7 +20,7 @@ export default function Profile() {
       />
 
 
-      <p className="text-xl font-lightbold mb-1">Hannah Mycah Bernaldez</p>
+      <p className="text-xl font-lightbold mb-1">Shelby Haniel Codilla</p>
 
 
       <p className="text-sm text-gray-600 mb-4">
